@@ -4,7 +4,7 @@
   "description": "Calidad y Pruebas de Software",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alanpar97/Calidad/issues"
   },
-  "homepage": "https://github.com/alanpar97/Calidad#readme"
+  "homepage": "https://github.com/alanpar97/Calidad#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
 }
