@@ -1,0 +1,19 @@
+{
+  "name": "calidad",
+  "version": "1.0.0",
+  "description": "Calidad y Pruebas de Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanpar97/Calidad.git"
+  },
+  "author": "alan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanpar97/Calidad/issues"
+  },
+  "homepage": "https://github.com/alanpar97/Calidad#readme"
+}
